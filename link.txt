@@ -1,0 +1,12 @@
+https://v1study.com/sql-chi-muc-index-a590.html
+https://comdy.vn/sql-server/function-trong-sql-server/
+https://www.it-swarm-vi.com/vi/sql/tap-lenh-sql-de-tim-dia-chi-email-khong-hop-le/958023646/
+https://shareprogramming.net/huong-dan-tao-su-dung-stored-procedure-trong-sql-server/
+https://giasutinhoc.vn/database/sqlserver-2014/trigger-trong-sql-server-2014-bai-11-2/
+https://cafedev.vn/tu-hoc-sql-tim-hieu-ve-trigger-trong-sql-la-gi-qua-vi-du-chi-tiet/
+https://vietnix.vn/trigger-trong-sql/
+https://viblo.asia/p/su-dung-trigger-trong-sql-qua-vi-du-co-ban-aWj538APK6m
+https://viettuts.vn/sql/transaction-trong-sql
+https://viblo.asia/p/transaction-sql-phan-1-oOVlYp0zZ8W
+http://www.sqlviet.com/blog/su-dung-transaction-trong-sql-server
+http://nghean-aptech.com/laptrinh/1202/default.aspx
